@@ -1,8 +1,13 @@
-# awesome-movement-primitives
+# Awesome Movement Primitives
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-### TODO:
- - Add awesome badge
-
+Implementations of various movement primitive (MP) frameworks, including:
+dynamic MPs,
+probabilistic MPs,
+kernelized MPs,
+contextual neural MPs,
+fourier MPs,
+and other methods.
 
 
 ## Dynamic Movement Primitives
