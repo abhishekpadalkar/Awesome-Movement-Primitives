@@ -10,21 +10,21 @@ fourier MPs,
 and other methods.
 
 ## Table of Contents
- - [DMPs](#dynamic-movement-primitives)
- - [ProMPs](#probabilistic-movement-primitives)
- - [KMPs](#kernelized-movement-primitives)
- - [CNMPs](#contextual-neural-movement-primitives)
- - [FMPs](#fourier-movement-primitives)
+ - [Dynamic Movement Primitives](#dynamic-movement-primitives)
+ - [Probabilistic Movement Primitives](#probabilistic-movement-primitives)
+ - [Kernelized Movement Primitives](#kernelized-movement-primitives)
+ - [Contextual Neural Movement Primitives](#contextual-neural-movement-primitives)
+ - [Fourier Movement Primitives](#fourier-movement-primitives)
+ - [Other Approaches](#other-approaches)
+ - [Citing This Work](#citing-this-work)
 
 
 ## Dynamic Movement Primitives
 
 ### Software
-[studywolf/pydmps](https://github.com/studywolf/pydmps):  
-[![GitHub stars](https://img.shields.io/github/stars/studywolf/pydmps?style=social)](https://github.com/studywolf/pydmps/stargazers/)
+[studywolf/pydmps](https://github.com/studywolf/pydmps):  [![GitHub stars](https://img.shields.io/github/stars/studywolf/pydmps?style=social)](https://github.com/studywolf/pydmps/stargazers/)
 
-[stulp/dmpbbo](https://github.com/stulp/dmpbbo):  
-[![GitHub stars](https://img.shields.io/github/stars/stulp/dmpbbo?style=social)](https://github.com/stulp/dmpbbo/stargazers/)
+[stulp/dmpbbo](https://github.com/stulp/dmpbbo):  [![GitHub stars](https://img.shields.io/github/stars/stulp/dmpbbo?style=social)](https://github.com/stulp/dmpbbo/stargazers/)
 
 [sniekum/DMP](https://github.com/sniekum/dmp): Robot-agnostic implementation for ROS. ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub stars](https://img.shields.io/github/stars/sniekum/dmp?style=social)](https://github.com/sniekum/dmp/stargazers/) 
 
