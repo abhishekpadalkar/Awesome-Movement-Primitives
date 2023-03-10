@@ -1,7 +1,7 @@
 # Awesome Movement Primitives
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Implementations of various movement primitive (MP) frameworks, including:
+Links to software implementations of movement primitive (MP) frameworks and core papers, including:
 dynamic MPs,
 probabilistic MPs,
 kernelized MPs,
@@ -9,10 +9,19 @@ contextual neural MPs,
 fourier MPs,
 and other methods.
 
+## Table of Contents
+ - [DMPs](#dynamic-movement-primitives)
+ - [ProMPs](#probabilistic-movement-primitives)
+ - [KMPs](#kernelized-movement-primitives)
+ - [CNMPs](#contextual-neural-movement-primitives)
+ - [FMPs](#fourier-movement-primitives)
+
 
 ## Dynamic Movement Primitives
 
-https://github.com/sniekum/dmp
+### Software
+
+[sniekum/DMP](https://img.shields.io/github/stars/sniekum/dmp?style=social)(https://github.com/sniekum/dmp)
 
 https://github.com/stulp/dmpbbo
 
@@ -40,7 +49,7 @@ https://github.com/tsitsimis/
 
 https://github.com/chauby/DMP_chebotar
 
-https://github.com/stulp/dmp_bbo_matlab_deprecated/tree/master_deprecated
+https://github.com/stulp/dmp_bbo_matlab_deprecated
 
 https://github.com/carlos22/pydmp
 
@@ -68,7 +77,7 @@ https://github.com/ZhengYi0310/DMP
 
 https://github.com/zhouyou-kit/dmp_exercise
 
-https://github.com/dkebude/DMP-
+https://github.com/dkebude/DMP-gen
 
 https://github.com/cloudy/dmp-obstacle-avoidance
 
@@ -147,3 +156,8 @@ https://github.com/nag92/pdblib-matlab
 
 ## Other Approaches
 https://github.com/ir-lab/intprimm
+
+
+
+## Citing This Work
+
