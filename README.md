@@ -20,10 +20,11 @@ and other methods.
 ## Dynamic Movement Primitives
 
 ### Software
-
-[sniekum/DMP](https://github.com/sniekum/dmp): Robot-agnostic implementation for ROS. ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub stars](https://img.shields.io/github/stars/sniekum/dmp?style=social)](https://github.com/sniekum/dmp/stargazers/) 
+[studywolf/pydmps](https://github.com/studywolf/pydmps):  [![GitHub stars](https://img.shields.io/github/stars/studywolf/pydmps?style=social)](https://github.com/studywolf/pydmps/stargazers/)
 
 [stulp/dmpbbo](https://github.com/stulp/dmpbbo):  [![GitHub stars](https://img.shields.io/github/stars/stulp/dmpbbo?style=social)](https://github.com/stulp/dmpbbo/stargazers/)
+
+[sniekum/DMP](https://github.com/sniekum/dmp): Robot-agnostic implementation for ROS. ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub stars](https://img.shields.io/github/stars/sniekum/dmp?style=social)](https://github.com/sniekum/dmp/stargazers/) 
 
 [dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives):  [![GitHub stars](https://img.shields.io/github/stars/dfki-ric/movement_primitives?style=social)](https://github.com/dfki-ric/movement_primitives/stargazers/)
 
@@ -45,7 +46,7 @@ and other methods.
 
 [awesomebytes/dmp_gestures](https://github.com/awesomebytes/dmp_gestures):  [![GitHub stars](https://img.shields.io/github/stars/awesomebytes/dmp_gestures?style=social)](https://github.com/awesomebytes/dmp_gestures/stargazers/)
 
-[tsitsimis/](https://github.com/tsitsimis/):  [![GitHub stars](https://img.shields.io/github/stars/tsitsimis/?style=social)](https://github.com/tsitsimis//stargazers/)
+[tsitsimis/dmpling](https://github.com/tsitsimis/dmpling):  [![GitHub stars](https://img.shields.io/github/stars/tsitsimis/dmpling?style=social)](https://github.com/tsitsimis/dmpling/stargazers/)
 
 [chauby/DMP_chebotar](https://github.com/chauby/DMP_chebotar):  [![GitHub stars](https://img.shields.io/github/stars/chauby/DMP_chebotar?style=social)](https://github.com/chauby/DMP_chebotar/stargazers/)
 
@@ -66,8 +67,6 @@ and other methods.
 [baggepinnen/DynamicMovementPrimitives.jl](https://github.com/baggepinnen/DynamicMovementPrimitives.jl):  [![GitHub stars](https://img.shields.io/github/stars/baggepinnen/DynamicMovementPrimitives.jl?style=social)](https://github.com/baggepinnen/DynamicMovementPrimitives.jl/stargazers/)
 
 [dgerod/more-dmps](https://github.com/dgerod/more-dmps):  [![GitHub stars](https://img.shields.io/github/stars/dgerod/more-dmps?style=social)](https://github.com/dgerod/more-dmps/stargazers/)
-
-[studywolf/pydmps](https://github.com/studywolf/pydmps):  [![GitHub stars](https://img.shields.io/github/stars/studywolf/pydmps?style=social)](https://github.com/studywolf/pydmps/stargazers/)
 
 [cunnia3/Dynamic-Motion-Primitives](https://github.com/cunnia3/Dynamic-Motion-Primitives):  [![GitHub stars](https://img.shields.io/github/stars/cunnia3/Dynamic-Motion-Primitives?style=social)](https://github.com/cunnia3/Dynamic-Motion-Primitives/stargazers/)
 
@@ -149,13 +148,12 @@ and other methods.
 
 
 ## Fourier Movement Primitives
-No source code provided by authors. Simple example in following repository:
 
 [nag92/pdblib-matlab](https://github.com/nag92/pdblib-matlab):  [![GitHub stars](https://img.shields.io/github/stars/nag92/pdblib-matlab?style=social)](https://github.com/nag92/pdblib-matlab/stargazers/)
 
 
 ## Other Approaches
-[ir-lab/intprimm](https://github.com/ir-lab/intprimm):  [![GitHub stars](https://img.shields.io/github/stars/ir-lab/intprimm?style=social)](https://github.com/ir-lab/intprimm/stargazers/)
+[ir-lab/intprim](https://github.com/ir-lab/intprim):  [![GitHub stars](https://img.shields.io/github/stars/ir-lab/intprim?style=social)](https://github.com/ir-lab/intprim/stargazers/)
 
 
 
