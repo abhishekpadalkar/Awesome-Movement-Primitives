@@ -36,9 +36,15 @@ and other methods.
 
 [mginesi/dmp_pp](https://github.com/mginesi/dmp_pp):  [![GitHub stars](https://img.shields.io/github/stars/mginesi/dmp_pp?style=social)](https://github.com/mginesi/dmp_pp/stargazers/)
 
-[mginesi/dmp_vol_obst](https://github.com/mginesi/dmp_vol_obst):  [![GitHub stars](https://img.shields.io/github/stars/mginesi/dmp_vol_obst?style=social)](https://github.com/mginesi/dmp_vol_obst/stargazers/)
+[suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics](https://github.com/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics):  [![GitHub stars](https://img.shields.io/github/stars/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics?style=social)](https://github.com/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics/stargazers/)
 
 [abakisita/ros_dmp](https://github.com/abakisita/ros_dmp):  [![GitHub stars](https://img.shields.io/github/stars/abakisita/ros_dmp?style=social)](https://github.com/abakisita/ros_dmp/stargazers/)
+
+[mginesi/dmp_vol_obst](https://github.com/mginesi/dmp_vol_obst):  [![GitHub stars](https://img.shields.io/github/stars/mginesi/dmp_vol_obst?style=social)](https://github.com/mginesi/dmp_vol_obst/stargazers/)
+
+[ferreirafabio/movement_primitives_via_optimization](https://github.com/ferreirafabio/movement_primitives_via_optimization):  [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/movement_primitives_via_optimization?style=social)](https://github.com/ferreirafabio/movement_primitives_via_optimization/stargazers/)
+
+[liangyuwei/dual_ur5_arm](https://github.com/liangyuwei/dual_ur5_arm):  [![GitHub stars](https://img.shields.io/github/stars/liangyuwei/dual_ur5_arm?style=social)](https://github.com/liangyuwei/dual_ur5_arm/stargazers/)
 
 [abakisita/dmp_motion](https://github.com/abakisita/dmp_motion):  [![GitHub stars](https://img.shields.io/github/stars/abakisita/dmp_motion?style=social)](https://github.com/abakisita/dmp_motion/stargazers/)
 
@@ -57,8 +63,6 @@ and other methods.
 [carlos22/pydmp](https://github.com/carlos22/pydmp):  [![GitHub stars](https://img.shields.io/github/stars/carlos22/pydmp?style=social)](https://github.com/carlos22/pydmp/stargazers/)
 
 [mathiasesn/obstacle_avoidance_with_dmps](https://github.com/mathiasesn/obstacle_avoidance_with_dmps):  [![GitHub stars](https://img.shields.io/github/stars/mathiasesn/obstacle_avoidance_with_dmps?style=social)](https://github.com/mathiasesn/obstacle_avoidance_with_dmps/stargazers/)
-
-[suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics](https://github.com/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics):  [![GitHub stars](https://img.shields.io/github/stars/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics?style=social)](https://github.com/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics/stargazers/)
 
 [AlpX/DMP-LWR](https://github.com/AlpX/DMP-LWR):  [![GitHub stars](https://img.shields.io/github/stars/AlpX/DMP-LWR?style=social)](https://github.com/AlpX/DMP-LWR/stargazers/)
 
@@ -82,60 +86,54 @@ and other methods.
 
 [cloudy/dmp-obstacle-avoidance](https://github.com/cloudy/dmp-obstacle-avoidance):  [![GitHub stars](https://img.shields.io/github/stars/cloudy/dmp-obstacle-avoidance?style=social)](https://github.com/cloudy/dmp-obstacle-avoidance/stargazers/)
 
-[liangyuwei/dual_ur5_arm](https://github.com/liangyuwei/dual_ur5_arm):  [![GitHub stars](https://img.shields.io/github/stars/liangyuwei/dual_ur5_arm?style=social)](https://github.com/liangyuwei/dual_ur5_arm/stargazers/)
-
-[ferreirafabio/movement_primitives_via_optimization](https://github.com/ferreirafabio/movement_primitives_via_optimization):  [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/movement_primitives_via_optimization?style=social)](https://github.com/ferreirafabio/movement_primitives_via_optimization/stargazers/)
-
 [justagist/reversible_dmp](https://github.com/justagist/reversible_dmp):  [![GitHub stars](https://img.shields.io/github/stars/justagist/reversible_dmp?style=social)](https://github.com/justagist/reversible_dmp/stargazers/)
 
 [gsutanto/dmp](https://github.com/gsutanto/dmp):  [![GitHub stars](https://img.shields.io/github/stars/gsutanto/dmp?style=social)](https://github.com/gsutanto/dmp/stargazers/)
 
-[kostasVlachos/dmp_control](https://github.com/kostasVlachos/dmp_control):  [![GitHub stars](https://img.shields.io/github/stars/kostasVlachos/dmp_control?style=social)](https://github.com/kostasVlachos/dmp_control/stargazers/)
-
 [CarlDegio/PI2-DMPs](https://github.com/CarlDegio/PI2-DMPs):  [![GitHub stars](https://img.shields.io/github/stars/CarlDegio/PI2-DMPs?style=social)](https://github.com/CarlDegio/PI2-DMPs/stargazers/)
-
-[nag92/dmp_experiments](https://github.com/nag92/dmp_experiments):  [![GitHub stars](https://img.shields.io/github/stars/nag92/dmp_experiments?style=social)](https://github.com/nag92/dmp_experiments/stargazers/)
 
 [abakisita/dmp_motion](https://github.com/abakisita/dmp_motion):  [![GitHub stars](https://img.shields.io/github/stars/abakisita/dmp_motion?style=social)](https://github.com/abakisita/dmp_motion/stargazers/)
 
-[MichailTheofanidis/dmp-protoype](https://github.com/MichailTheofanidis/dmp-protoype):  [![GitHub stars](https://img.shields.io/github/stars/MichailTheofanidis/dmp-protoype?style=social)](https://github.com/MichailTheofanidis/dmp-protoype/stargazers/)
-
 [shobhit6993/egraphs-with-dmp](https://github.com/shobhit6993/egraphs-with-dmp):  [![GitHub stars](https://img.shields.io/github/stars/shobhit6993/egraphs-with-dmp?style=social)](https://github.com/shobhit6993/egraphs-with-dmp/stargazers/)
-
-[ancker1/ObstacleAvoidanceDMP](https://github.com/ancker1/ObstacleAvoidanceDMP):  [![GitHub stars](https://img.shields.io/github/stars/ancker1/ObstacleAvoidanceDMP?style=social)](https://github.com/ancker1/ObstacleAvoidanceDMP/stargazers/)
 
 [yuehuang315/LIL-DMP](https://github.com/yuehuang315/LIL-DMP):  [![GitHub stars](https://img.shields.io/github/stars/yuehuang315/LIL-DMP?style=social)](https://github.com/yuehuang315/LIL-DMP/stargazers/)
 
 [Shaluols/ur5e_dmp](https://github.com/Shaluols/ur5e_dmp):  [![GitHub stars](https://img.shields.io/github/stars/Shaluols/ur5e_dmp?style=social)](https://github.com/Shaluols/ur5e_dmp/stargazers/)
 
-[herambnemlekar/dmp-handovers](https://github.com/herambnemlekar/dmp-handovers):  [![GitHub stars](https://img.shields.io/github/stars/herambnemlekar/dmp-handovers?style=social)](https://github.com/herambnemlekar/dmp-handovers/stargazers/)
-
 [Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree](https://github.com/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree):  [![GitHub stars](https://img.shields.io/github/stars/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree?style=social)](https://github.com/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree/stargazers/)
+
+[herambnemlekar/dmp-handovers](https://github.com/herambnemlekar/dmp-handovers):  [![GitHub stars](https://img.shields.io/github/stars/herambnemlekar/dmp-handovers?style=social)](https://github.com/herambnemlekar/dmp-handovers/stargazers/)
 
 [Mr-Xia-6/Baxter-DMPs-Obstacle](https://github.com/Mr-Xia-6/Baxter-DMPs-Obstacle):  [![GitHub stars](https://img.shields.io/github/stars/Mr-Xia-6/Baxter-DMPs-Obstacle?style=social)](https://github.com/Mr-Xia-6/Baxter-DMPs-Obstacle/stargazers/)
 
-[alaradirik/robot-learning](https://github.com/alaradirik/robot-learning):  [![GitHub stars](https://img.shields.io/github/stars/alaradirik/robot-learning?style=social)](https://github.com/alaradirik/robot-learning/stargazers/)
+[kostasVlachos/dmp_control](https://github.com/kostasVlachos/dmp_control):  [![GitHub stars](https://img.shields.io/github/stars/kostasVlachos/dmp_control?style=social)](https://github.com/kostasVlachos/dmp_control/stargazers/)
 
-[Slifer64/resnet_dmp](https://github.com/Slifer64/resnet_dmp):  [![GitHub stars](https://img.shields.io/github/stars/Slifer64/resnet_dmp?style=social)](https://github.com/Slifer64/resnet_dmp/stargazers/)
+[alaradirik/robot-learning](https://github.com/alaradirik/robot-learning):  [![GitHub stars](https://img.shields.io/github/stars/alaradirik/robot-learning?style=social)](https://github.com/alaradirik/robot-learning/stargazers/)
 
 [ZhengYi0310/dmp-ros-pkg](https://github.com/ZhengYi0310/dmp-ros-pkg):  [![GitHub stars](https://img.shields.io/github/stars/ZhengYi0310/dmp-ros-pkg?style=social)](https://github.com/ZhengYi0310/dmp-ros-pkg/stargazers/)
 
 [emarescotti/VelocityPlanning_DMP_FL](https://github.com/emarescotti/VelocityPlanning_DMP_FL):  [![GitHub stars](https://img.shields.io/github/stars/emarescotti/VelocityPlanning_DMP_FL?style=social)](https://github.com/emarescotti/VelocityPlanning_DMP_FL/stargazers/)
 
+[MichailTheofanidis/dmp-protoype](https://github.com/MichailTheofanidis/dmp-protoype):  [![GitHub stars](https://img.shields.io/github/stars/MichailTheofanidis/dmp-protoype?style=social)](https://github.com/MichailTheofanidis/dmp-protoype/stargazers/)
+
+[nag92/dmp_experiments](https://github.com/nag92/dmp_experiments):  [![GitHub stars](https://img.shields.io/github/stars/nag92/dmp_experiments?style=social)](https://github.com/nag92/dmp_experiments/stargazers/)
+
+[Slifer64/resnet_dmp](https://github.com/Slifer64/resnet_dmp):  [![GitHub stars](https://img.shields.io/github/stars/Slifer64/resnet_dmp?style=social)](https://github.com/Slifer64/resnet_dmp/stargazers/)
+
+[ancker1/ObstacleAvoidanceDMP](https://github.com/ancker1/ObstacleAvoidanceDMP):  [![GitHub stars](https://img.shields.io/github/stars/ancker1/ObstacleAvoidanceDMP?style=social)](https://github.com/ancker1/ObstacleAvoidanceDMP/stargazers/)
 
 ## Probabilistic Movement Primitives
 [dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives):  [![GitHub stars](https://img.shields.io/github/stars/dfki-ric/movement_primitives?style=social)](https://github.com/dfki-ric/movement_primitives/stargazers/)
 
-[herambnemlekar/probabilistic-movement-primitives](https://github.com/herambnemlekar/probabilistic-movement-primitives):  [![GitHub stars](https://img.shields.io/github/stars/herambnemlekar/probabilistic-movement-primitives?style=social)](https://github.com/herambnemlekar/probabilistic-movement-primitives/stargazers/)
-
-[sebasutp/promp-cpp](https://github.com/sebasutp/promp-cpp):  [![GitHub stars](https://img.shields.io/github/stars/sebasutp/promp-cpp?style=social)](https://github.com/sebasutp/promp-cpp/stargazers/)
+[sebasutp/promp](https://github.com/sebasutp/promp):  [![GitHub stars](https://img.shields.io/github/stars/sebasutp/promp?style=social)](https://github.com/sebasutp/promp/stargazers/)
 
 [baxter-flowers/promplib](https://github.com/baxter-flowers/promplib):  [![GitHub stars](https://img.shields.io/github/stars/baxter-flowers/promplib?style=social)](https://github.com/baxter-flowers/promplib/stargazers/)
 
 [mjm522/promps_python](https://github.com/mjm522/promps_python):  [![GitHub stars](https://img.shields.io/github/stars/mjm522/promps_python?style=social)](https://github.com/mjm522/promps_python/stargazers/)
 
-[sebasutp/promp](https://github.com/sebasutp/promp):  [![GitHub stars](https://img.shields.io/github/stars/sebasutp/promp?style=social)](https://github.com/sebasutp/promp/stargazers/)
+[sebasutp/promp-cpp](https://github.com/sebasutp/promp-cpp):  [![GitHub stars](https://img.shields.io/github/stars/sebasutp/promp-cpp?style=social)](https://github.com/sebasutp/promp-cpp/stargazers/)
 
+[herambnemlekar/probabilistic-movement-primitives](https://github.com/herambnemlekar/probabilistic-movement-primitives):  [![GitHub stars](https://img.shields.io/github/stars/herambnemlekar/probabilistic-movement-primitives?style=social)](https://github.com/herambnemlekar/probabilistic-movement-primitives/stargazers/)
 
 ## Kernelized Movement Primitives
 [yanlongtu/robInfLib-matlab](https://github.com/yanlongtu/robInfLib-matlab):  [![GitHub stars](https://img.shields.io/github/stars/yanlongtu/robInfLib-matlab?style=social)](https://github.com/yanlongtu/robInfLib-matlab/stargazers/)
@@ -144,9 +142,9 @@ and other methods.
 ## Contextual Neural Movement Primitives
 [myunusseker/CNMP](https://github.com/myunusseker/CNMP):  [![GitHub stars](https://img.shields.io/github/stars/myunusseker/CNMP?style=social)](https://github.com/myunusseker/CNMP/stargazers/)
 
-[mtuluhanakbulut/RC-NMP](https://github.com/mtuluhanakbulut/RC-NMP):  [![GitHub stars](https://img.shields.io/github/stars/mtuluhanakbulut/RC-NMP?style=social)](https://github.com/mtuluhanakbulut/RC-NMP/stargazers/)
-
 [mtuluhanakbulut/ACNMP](https://github.com/mtuluhanakbulut/ACNMP):  [![GitHub stars](https://img.shields.io/github/stars/mtuluhanakbulut/ACNMP?style=social)](https://github.com/mtuluhanakbulut/ACNMP/stargazers/)
+
+[mtuluhanakbulut/RC-NMP](https://github.com/mtuluhanakbulut/RC-NMP):  [![GitHub stars](https://img.shields.io/github/stars/mtuluhanakbulut/RC-NMP?style=social)](https://github.com/mtuluhanakbulut/RC-NMP/stargazers/)
 
 
 ## Fourier Movement Primitives
