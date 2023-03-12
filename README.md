@@ -190,50 +190,95 @@ and other methods.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 [![GitHub stars](https://img.shields.io/github/stars/yuehuang315/LIL-DMP?style=social)](https://github.com/yuehuang315/LIL-DMP/stargazers/)
 
-[gsutanto/dmp](https://github.com/gsutanto/dmp): References in three languages with hard real-time support for robot control (C++).
+[gsutanto/dmp](https://github.com/gsutanto/dmp): Reference implementation in three languages with hard real-time support for robot control (C++).
 
-![matlab](https://img.shields.io/badge/matlab-%20-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
 [![GitHub stars](https://img.shields.io/github/stars/gsutanto/dmp?style=social)](https://github.com/gsutanto/dmp/stargazers/)
 
-[Shaluols/ur5e_dmp](https://github.com/Shaluols/ur5e_dmp): Leverages UR5e gazebo simulation to learn DMPs based on @studywolf's library.
+[Shaluols/ur5e_dmp](https://github.com/Shaluols/ur5e_dmp): Leverages UR5e Gazebo simulation to learn DMPs based on @studywolf's library.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 [![GitHub stars](https://img.shields.io/github/stars/Shaluols/ur5e_dmp?style=social)](https://github.com/Shaluols/ur5e_dmp/stargazers/)
 
-[Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree](https://github.com/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree):  [![GitHub stars](https://img.shields.io/github/stars/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree?style=social)](https://github.com/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree/stargazers/)
+[Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree](https://github.com/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree): Use behavior trees and DMPs for upper-level task planning.
 
-[herambnemlekar/dmp-handovers](https://github.com/herambnemlekar/dmp-handovers):  [![GitHub stars](https://img.shields.io/github/stars/herambnemlekar/dmp-handovers?style=social)](https://github.com/herambnemlekar/dmp-handovers/stargazers/)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+[![GitHub stars](https://img.shields.io/github/stars/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree?style=social)](https://github.com/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree/stargazers/)
 
-[AlpX/DMP-LWR](https://github.com/AlpX/DMP-LWR):  [![GitHub stars](https://img.shields.io/github/stars/AlpX/DMP-LWR?style=social)](https://github.com/AlpX/DMP-LWR/stargazers/)
+[herambnemlekar/dmp-handovers](https://github.com/herambnemlekar/dmp-handovers): Preditive human-robot handovers using DMPs on the Baxter robot.
 
-[Mr-Xia-6/Baxter-DMPs-Obstacle](https://github.com/Mr-Xia-6/Baxter-DMPs-Obstacle):  [![GitHub stars](https://img.shields.io/github/stars/Mr-Xia-6/Baxter-DMPs-Obstacle?style=social)](https://github.com/Mr-Xia-6/Baxter-DMPs-Obstacle/stargazers/)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+[![GitHub stars](https://img.shields.io/github/stars/herambnemlekar/dmp-handovers?style=social)](https://github.com/herambnemlekar/dmp-handovers/stargazers/)
 
-[kostasVlachos/dmp_control](https://github.com/kostasVlachos/dmp_control):  [![GitHub stars](https://img.shields.io/github/stars/kostasVlachos/dmp_control?style=social)](https://github.com/kostasVlachos/dmp_control/stargazers/)
+[AlpX/DMP-LWR](https://github.com/AlpX/DMP-LWR): Reference implementation in matlab using locally weighted regression. 
 
-[alaradirik/robot-learning](https://github.com/alaradirik/robot-learning):  [![GitHub stars](https://img.shields.io/github/stars/alaradirik/robot-learning?style=social)](https://github.com/alaradirik/robot-learning/stargazers/)
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+[![GitHub stars](https://img.shields.io/github/stars/AlpX/DMP-LWR?style=social)](https://github.com/AlpX/DMP-LWR/stargazers/)
 
-[zhouyou-kit/dmp_exercise](https://github.com/zhouyou-kit/dmp_exercise):  [![GitHub stars](https://img.shields.io/github/stars/zhouyou-kit/dmp_exercise?style=social)](https://github.com/zhouyou-kit/dmp_exercise/stargazers/)
+[kostasVlachos/dmp_control](https://github.com/kostasVlachos/dmp_control): DMP control for Kuka robot.
 
-[ZhengYi0310/dmp-ros-pkg](https://github.com/ZhengYi0310/dmp-ros-pkg):  [![GitHub stars](https://img.shields.io/github/stars/ZhengYi0310/dmp-ros-pkg?style=social)](https://github.com/ZhengYi0310/dmp-ros-pkg/stargazers/)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+[![GitHub stars](https://img.shields.io/github/stars/kostasVlachos/dmp_control?style=social)](https://github.com/kostasVlachos/dmp_control/stargazers/)
 
-[justagist/reversible_dmp](https://github.com/justagist/reversible_dmp):  [![GitHub stars](https://img.shields.io/github/stars/justagist/reversible_dmp?style=social)](https://github.com/justagist/reversible_dmp/stargazers/)
+[alaradirik/robot-learning](https://github.com/alaradirik/robot-learning): Algorithms from university course implemented in numpy.
 
-[emarescotti/VelocityPlanning_DMP_FL](https://github.com/emarescotti/VelocityPlanning_DMP_FL):  [![GitHub stars](https://img.shields.io/github/stars/emarescotti/VelocityPlanning_DMP_FL?style=social)](https://github.com/emarescotti/VelocityPlanning_DMP_FL/stargazers/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/alaradirik/robot-learning?style=social)](https://github.com/alaradirik/robot-learning/stargazers/)
 
-[ZhengYi0310/DMP](https://github.com/ZhengYi0310/DMP):  [![GitHub stars](https://img.shields.io/github/stars/ZhengYi0310/DMP?style=social)](https://github.com/ZhengYi0310/DMP/stargazers/)
+[zhouyou-kit/dmp_exercise](https://github.com/zhouyou-kit/dmp_exercise): Educational visualization based on Peter Corke's matlab robotics toolbox.
 
-[MichailTheofanidis/dmp-protoype](https://github.com/MichailTheofanidis/dmp-protoype):  [![GitHub stars](https://img.shields.io/github/stars/MichailTheofanidis/dmp-protoype?style=social)](https://github.com/MichailTheofanidis/dmp-protoype/stargazers/)
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+[![GitHub stars](https://img.shields.io/github/stars/zhouyou-kit/dmp_exercise?style=social)](https://github.com/zhouyou-kit/dmp_exercise/stargazers/)
 
-[cunnia3/Dynamic-Motion-Primitives](https://github.com/cunnia3/Dynamic-Motion-Primitives):  [![GitHub stars](https://img.shields.io/github/stars/cunnia3/Dynamic-Motion-Primitives?style=social)](https://github.com/cunnia3/Dynamic-Motion-Primitives/stargazers/)
+[ZhengYi0310/dmp-ros-pkg](https://github.com/ZhengYi0310/dmp-ros-pkg): DMP implementation for PR2 and WAM robots.
 
-[nag92/dmp_experiments](https://github.com/nag92/dmp_experiments):  [![GitHub stars](https://img.shields.io/github/stars/nag92/dmp_experiments?style=social)](https://github.com/nag92/dmp_experiments/stargazers/)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+[![GitHub stars](https://img.shields.io/github/stars/ZhengYi0310/dmp-ros-pkg?style=social)](https://github.com/ZhengYi0310/dmp-ros-pkg/stargazers/)
 
-[Slifer64/resnet_dmp](https://github.com/Slifer64/resnet_dmp):  [![GitHub stars](https://img.shields.io/github/stars/Slifer64/resnet_dmp?style=social)](https://github.com/Slifer64/resnet_dmp/stargazers/)
+[justagist/reversible_dmp](https://github.com/justagist/reversible_dmp):  Implements reversible discrete DMP.
 
-[ancker1/ObstacleAvoidanceDMP](https://github.com/ancker1/ObstacleAvoidanceDMP):  [![GitHub stars](https://img.shields.io/github/stars/ancker1/ObstacleAvoidanceDMP?style=social)](https://github.com/ancker1/ObstacleAvoidanceDMP/stargazers/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/justagist/reversible_dmp?style=social)](https://github.com/justagist/reversible_dmp/stargazers/)
+
+[emarescotti/VelocityPlanning_DMP_FL](https://github.com/emarescotti/VelocityPlanning_DMP_FL): Velocity planning of robotic sealing tasks using DMPs.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/emarescotti/VelocityPlanning_DMP_FL?style=social)](https://github.com/emarescotti/VelocityPlanning_DMP_FL/stargazers/)
+
+[ZhengYi0310/DMP](https://github.com/ZhengYi0310/DMP): Implementation in two languages.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+[![GitHub stars](https://img.shields.io/github/stars/ZhengYi0310/DMP?style=social)](https://github.com/ZhengYi0310/DMP/stargazers/)
+
+[MichailTheofanidis/dmp-protoype](https://github.com/MichailTheofanidis/dmp-protoype): Experimental implementation of reinforcement-learning based adaptation and robot inverse kinematics.
+
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+[![GitHub stars](https://img.shields.io/github/stars/MichailTheofanidis/dmp-protoype?style=social)](https://github.com/MichailTheofanidis/dmp-protoype/stargazers/)
+
+[cunnia3/Dynamic-Motion-Primitives](https://github.com/cunnia3/Dynamic-Motion-Primitives): Implementation based on @studywolf DMP.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/cunnia3/Dynamic-Motion-Primitives?style=social)](https://github.com/cunnia3/Dynamic-Motion-Primitives/stargazers/)
+
+[nag92/dmp_experiments](https://github.com/nag92/dmp_experiments):  Experimental implementation in two languages.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+[![GitHub stars](https://img.shields.io/github/stars/nag92/dmp_experiments?style=social)](https://github.com/nag92/dmp_experiments/stargazers/)
+
+[Slifer64/resnet_dmp](https://github.com/Slifer64/resnet_dmp): Uses RGB images with resnet network architecture to learn DMPs for planar tasks.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/Slifer64/resnet_dmp?style=social)](https://github.com/Slifer64/resnet_dmp/stargazers/)
+
 
 ## Probabilistic Movement Primitives
 [dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives):  [![GitHub stars](https://img.shields.io/github/stars/dfki-ric/movement_primitives?style=social)](https://github.com/dfki-ric/movement_primitives/stargazers/)
