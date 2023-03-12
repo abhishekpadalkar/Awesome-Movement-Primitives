@@ -39,15 +39,31 @@ and other methods.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 [![GitHub stars](https://img.shields.io/github/stars/sniekum/dmp?style=social)](https://github.com/sniekum/dmp/stargazers/) 
 
-[dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives): Various MP frameworks including DMPs (with spatially coupled support) and ProMPs. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub stars](https://img.shields.io/github/stars/dfki-ric/movement_primitives?style=social)](https://github.com/dfki-ric/movement_primitives/stargazers/)
+[dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives): Various MP frameworks including DMPs (with spatially coupled support) and ProMPs. 
 
-[chauby/PyDMPs_Chauby](https://github.com/chauby/PyDMPs_Chauby):  [![GitHub stars](https://img.shields.io/github/stars/chauby/PyDMPs_Chauby?style=social)](https://github.com/chauby/PyDMPs_Chauby/stargazers/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/dfki-ric/movement_primitives?style=social)](https://github.com/dfki-ric/movement_primitives/stargazers/)
 
-[AlexanderFabisch/PyDMP](https://github.com/AlexanderFabisch/PyDMP):  [![GitHub stars](https://img.shields.io/github/stars/AlexanderFabisch/PyDMP?style=social)](https://github.com/AlexanderFabisch/PyDMP/stargazers/)
+[chauby/PyDMPs_Chauby](https://github.com/chauby/PyDMPs_Chauby): Implementation for simulated UR5 robot in CoppeliaSim (V-REP).
 
-[mginesi/dmp_pp](https://github.com/mginesi/dmp_pp):  [![GitHub stars](https://img.shields.io/github/stars/mginesi/dmp_pp?style=social)](https://github.com/mginesi/dmp_pp/stargazers/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/chauby/PyDMPs_Chauby?style=social)](https://github.com/chauby/PyDMPs_Chauby/stargazers/)
 
-[suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics](https://github.com/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics):  [![GitHub stars](https://img.shields.io/github/stars/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics?style=social)](https://github.com/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics/stargazers/)
+[AlexanderFabisch/PyDMP](https://github.com/AlexanderFabisch/PyDMP): Illustrative notebooks for understanding concepts.
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/AlexanderFabisch/PyDMP?style=social)](https://github.com/AlexanderFabisch/PyDMP/stargazers/)
+
+[mginesi/dmp_pp](https://github.com/mginesi/dmp_pp):  Library based on "Overcoming some drawbacks of DMPs" paper.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/mginesi/dmp_pp?style=social)](https://github.com/mginesi/dmp_pp/stargazers/)
+
+[suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics](https://github.com/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics):  Short implementation in matlab.
+
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+[![GitHub stars](https://img.shields.io/github/stars/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics?style=social)](https://github.com/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics/stargazers/)
 
 [abakisita/ros_dmp](https://github.com/abakisita/ros_dmp):  [![GitHub stars](https://img.shields.io/github/stars/abakisita/ros_dmp?style=social)](https://github.com/abakisita/ros_dmp/stargazers/)
 
