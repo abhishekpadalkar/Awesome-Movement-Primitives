@@ -13,7 +13,7 @@ for i, line in enumerate(lines):
             cl_line = line.split('\n')[0]
             authrepo = line.split(match_str)[1].split('\n')[0]
             sg_ico = f"https://img.shields.io/github/stars/{authrepo}?style=social"
-            lines[i] = f"[{authrepo}]({cl_line}):  [![GitHub stars]({sg_ico})]({sg_link+/stargazers/})\n"
+            lines[i] = f"[{authrepo}]({cl_line}):  [![GitHub stars]({sg_ico})]({sg_link}/stargazers/)\n"
 
 with open('README.md', 'w') as f:
     f.writelines(lines)
