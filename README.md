@@ -158,6 +158,13 @@ and other methods.
 ![matlab](https://img.shields.io/badge/matlab-%20-blue)
 [![GitHub stars](https://img.shields.io/github/stars/stulp/dmp_bbo_matlab_deprecated?style=social)](https://github.com/stulp/dmp_bbo_matlab_deprecated/stargazers/)
 
+[Slifer64/GMP](https://github.com/Slifer64/GMP): Generalized MPs based on DMPs. Supports online adaptation to via-points and off-line/on-line optimization under kinematic constraints.
+
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+[![GitHub stars](https://img.shields.io/github/stars/Slifer64/GMP?style=social)](https://github.com/Slifer64/GMP/stargazers/)
+
 [cloudy/dmp-obstacle-avoidance](https://github.com/cloudy/dmp-obstacle-avoidance):  Human obstacle avoidance demonstrated on Rethink Robotics Sawyer manipulator.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -208,6 +215,13 @@ and other methods.
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 [![GitHub stars](https://img.shields.io/github/stars/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree?style=social)](https://github.com/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree/stargazers/)
+
+[Slifer64/DMP_KF](https://github.com/Slifer64/DMP_KF): DMPs implemented with kalman filtering and support for Kuka/UR robots.
+
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+[![GitHub stars](https://img.shields.io/github/stars/Slifer64/DMP_KF?style=social)](https://github.com/Slifer64/DMP_KF/stargazers/)
 
 [herambnemlekar/dmp-handovers](https://github.com/herambnemlekar/dmp-handovers): Preditive human-robot handovers using DMPs on the Baxter robot.
 
