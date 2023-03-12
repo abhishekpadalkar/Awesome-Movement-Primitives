@@ -65,55 +65,143 @@ and other methods.
 ![matlab](https://img.shields.io/badge/matlab-%20-blue)
 [![GitHub stars](https://img.shields.io/github/stars/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics?style=social)](https://github.com/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics/stargazers/)
 
-[abakisita/ros_dmp](https://github.com/abakisita/ros_dmp):  [![GitHub stars](https://img.shields.io/github/stars/abakisita/ros_dmp?style=social)](https://github.com/abakisita/ros_dmp/stargazers/)
+[abakisita/ros_dmp](https://github.com/abakisita/ros_dmp): Package with services for learning motion and generating from leart DMP. 
 
-[mginesi/dmp_vol_obst](https://github.com/mginesi/dmp_vol_obst):  [![GitHub stars](https://img.shields.io/github/stars/mginesi/dmp_vol_obst?style=social)](https://github.com/mginesi/dmp_vol_obst/stargazers/)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/abakisita/ros_dmp?style=social)](https://github.com/abakisita/ros_dmp/stargazers/)
 
-[ferreirafabio/movement_primitives_via_optimization](https://github.com/ferreirafabio/movement_primitives_via_optimization):  [![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/movement_primitives_via_optimization?style=social)](https://github.com/ferreirafabio/movement_primitives_via_optimization/stargazers/)
+[mginesi/dmp_vol_obst](https://github.com/mginesi/dmp_vol_obst): Appended secondary forcing term for obstacle avoidance. 
 
-[varadVaidya/dmp](https://github.com/varadVaidya/dmp):  [![GitHub stars](https://img.shields.io/github/stars/varadVaidya/dmp?style=social)](https://github.com/varadVaidya/dmp/stargazers/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/mginesi/dmp_vol_obst?style=social)](https://github.com/mginesi/dmp_vol_obst/stargazers/)
 
-[liangyuwei/dual_ur5_arm](https://github.com/liangyuwei/dual_ur5_arm):  [![GitHub stars](https://img.shields.io/github/stars/liangyuwei/dual_ur5_arm?style=social)](https://github.com/liangyuwei/dual_ur5_arm/stargazers/)
+[ferreirafabio/movement_primitives_via_optimization](https://github.com/ferreirafabio/movement_primitives_via_optimization): Incorporates Lagrangian optimization for adapting to demonstrations. 
 
-[baggepinnen/DynamicMovementPrimitives.jl](https://github.com/baggepinnen/DynamicMovementPrimitives.jl):  [![GitHub stars](https://img.shields.io/github/stars/baggepinnen/DynamicMovementPrimitives.jl?style=social)](https://github.com/baggepinnen/DynamicMovementPrimitives.jl/stargazers/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/ferreirafabio/movement_primitives_via_optimization?style=social)](https://github.com/ferreirafabio/movement_primitives_via_optimization/stargazers/)
 
-[awesomebytes/dmp_gestures](https://github.com/awesomebytes/dmp_gestures):  [![GitHub stars](https://img.shields.io/github/stars/awesomebytes/dmp_gestures?style=social)](https://github.com/awesomebytes/dmp_gestures/stargazers/)
+[varadVaidya/dmp](https://github.com/varadVaidya/dmp): Secondary forcing term for single and multi-point obstacle avoidance. 
 
-[CarlDegio/PI2-DMPs](https://github.com/CarlDegio/PI2-DMPs):  [![GitHub stars](https://img.shields.io/github/stars/CarlDegio/PI2-DMPs?style=social)](https://github.com/CarlDegio/PI2-DMPs/stargazers/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/varadVaidya/dmp?style=social)](https://github.com/varadVaidya/dmp/stargazers/)
 
-[tsitsimis/dmpling](https://github.com/tsitsimis/dmpling):  [![GitHub stars](https://img.shields.io/github/stars/tsitsimis/dmpling?style=social)](https://github.com/tsitsimis/dmpling/stargazers/)
+[liangyuwei/dual_ur5_arm](https://github.com/liangyuwei/dual_ur5_arm): Dual-arm peg-in-hole task with UR5 robots. 
 
-[heracleia/pyrdmp](https://github.com/heracleia/pyrdmp):  [![GitHub stars](https://img.shields.io/github/stars/heracleia/pyrdmp?style=social)](https://github.com/heracleia/pyrdmp/stargazers/)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+[![GitHub stars](https://img.shields.io/github/stars/liangyuwei/dual_ur5_arm?style=social)](https://github.com/liangyuwei/dual_ur5_arm/stargazers/)
 
-[Dennis-BIRL-GDUT/baxter_dmp_rl](https://github.com/Dennis-BIRL-GDUT/baxter_dmp_rl):  [![GitHub stars](https://img.shields.io/github/stars/Dennis-BIRL-GDUT/baxter_dmp_rl?style=social)](https://github.com/Dennis-BIRL-GDUT/baxter_dmp_rl/stargazers/)
+[baggepinnen/DynamicMovementPrimitives.jl](https://github.com/baggepinnen/DynamicMovementPrimitives.jl): Standard formulation and implementation of 2DoF control for trajectory tracking and perturbation recovery.  
 
-[chauby/DMP_chebotar](https://github.com/chauby/DMP_chebotar):  [![GitHub stars](https://img.shields.io/github/stars/chauby/DMP_chebotar?style=social)](https://github.com/chauby/DMP_chebotar/stargazers/)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+[![GitHub stars](https://img.shields.io/github/stars/baggepinnen/DynamicMovementPrimitives.jl?style=social)](https://github.com/baggepinnen/DynamicMovementPrimitives.jl/stargazers/)
 
-[carlos22/pydmp](https://github.com/carlos22/pydmp):  [![GitHub stars](https://img.shields.io/github/stars/carlos22/pydmp?style=social)](https://github.com/carlos22/pydmp/stargazers/)
+[awesomebytes/dmp_gestures](https://github.com/awesomebytes/dmp_gestures): Use cameras to capture gestures to learn and generate DMPs executed through MoveIt!. 
 
-[dgerod/more-dmps](https://github.com/dgerod/more-dmps):  [![GitHub stars](https://img.shields.io/github/stars/dgerod/more-dmps?style=social)](https://github.com/dgerod/more-dmps/stargazers/)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/awesomebytes/dmp_gestures?style=social)](https://github.com/awesomebytes/dmp_gestures/stargazers/)
 
-[mathiasesn/obstacle_avoidance_with_dmps](https://github.com/mathiasesn/obstacle_avoidance_with_dmps):  [![GitHub stars](https://img.shields.io/github/stars/mathiasesn/obstacle_avoidance_with_dmps?style=social)](https://github.com/mathiasesn/obstacle_avoidance_with_dmps/stargazers/)
+[CarlDegio/PI2-DMPs](https://github.com/CarlDegio/PI2-DMPs): Reinforcement learning via Policy Improvement with Path Integrals (PI2) 
 
-[dkebude/DMP-gen](https://github.com/dkebude/DMP-gen):  [![GitHub stars](https://img.shields.io/github/stars/dkebude/DMP-gen?style=social)](https://github.com/dkebude/DMP-gen/stargazers/)
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/CarlDegio/PI2-DMPs?style=social)](https://github.com/CarlDegio/PI2-DMPs/stargazers/)
 
-[stulp/dmp_bbo_matlab_deprecated](https://github.com/stulp/dmp_bbo_matlab_deprecated):  [![GitHub stars](https://img.shields.io/github/stars/stulp/dmp_bbo_matlab_deprecated?style=social)](https://github.com/stulp/dmp_bbo_matlab_deprecated/stargazers/)
+[tsitsimis/dmpling](https://github.com/tsitsimis/dmpling): Trajectories learned from human gestures (3D marker poses) with notebook visualizations.
 
-[cloudy/dmp-obstacle-avoidance](https://github.com/cloudy/dmp-obstacle-avoidance):  [![GitHub stars](https://img.shields.io/github/stars/cloudy/dmp-obstacle-avoidance?style=social)](https://github.com/cloudy/dmp-obstacle-avoidance/stargazers/)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/tsitsimis/dmpling?style=social)](https://github.com/tsitsimis/dmpling/stargazers/)
 
-[abakisita/dmp_motion](https://github.com/abakisita/dmp_motion):  [![GitHub stars](https://img.shields.io/github/stars/abakisita/dmp_motion?style=social)](https://github.com/abakisita/dmp_motion/stargazers/)
+[heracleia/pyrdmp](https://github.com/heracleia/pyrdmp): Reinforcement learning library based on the PoWER algorithm.
 
-[shobhit6993/egraphs-with-dmp](https://github.com/shobhit6993/egraphs-with-dmp):  [![GitHub stars](https://img.shields.io/github/stars/shobhit6993/egraphs-with-dmp?style=social)](https://github.com/shobhit6993/egraphs-with-dmp/stargazers/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/heracleia/pyrdmp?style=social)](https://github.com/heracleia/pyrdmp/stargazers/)
 
-[xukechun/DMPs-learning](https://github.com/xukechun/DMPs-learning):  [![GitHub stars](https://img.shields.io/github/stars/xukechun/DMPs-learning?style=social)](https://github.com/xukechun/DMPs-learning/stargazers/)
+[Dennis-BIRL-GDUT/baxter_dmp_rl](https://github.com/Dennis-BIRL-GDUT/baxter_dmp_rl):  Workspace for ROS implementation of Baxter pick-and-place.
 
-[baxter-flowers/dmp_lib](https://github.com/baxter-flowers/dmp_lib):  [![GitHub stars](https://img.shields.io/github/stars/baxter-flowers/dmp_lib?style=social)](https://github.com/baxter-flowers/dmp_lib/stargazers/)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+[![GitHub stars](https://img.shields.io/github/stars/Dennis-BIRL-GDUT/baxter_dmp_rl?style=social)](https://github.com/Dennis-BIRL-GDUT/baxter_dmp_rl/stargazers/)
 
-[yuehuang315/LIL-DMP](https://github.com/yuehuang315/LIL-DMP):  [![GitHub stars](https://img.shields.io/github/stars/yuehuang315/LIL-DMP?style=social)](https://github.com/yuehuang315/LIL-DMP/stargazers/)
+[chauby/DMP_chebotar](https://github.com/chauby/DMP_chebotar): Implementation supports goal location updates.
 
-[gsutanto/dmp](https://github.com/gsutanto/dmp):  [![GitHub stars](https://img.shields.io/github/stars/gsutanto/dmp?style=social)](https://github.com/gsutanto/dmp/stargazers/)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+[![GitHub stars](https://img.shields.io/github/stars/chauby/DMP_chebotar?style=social)](https://github.com/chauby/DMP_chebotar/stargazers/)
 
-[Shaluols/ur5e_dmp](https://github.com/Shaluols/ur5e_dmp):  [![GitHub stars](https://img.shields.io/github/stars/Shaluols/ur5e_dmp?style=social)](https://github.com/Shaluols/ur5e_dmp/stargazers/)
+[carlos22/pydmp](https://github.com/carlos22/pydmp): Educational implementation of 1D discrete DMP. 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/carlos22/pydmp?style=social)](https://github.com/carlos22/pydmp/stargazers/)
+
+[dgerod/more-dmps](https://github.com/dgerod/more-dmps): Implementation on three other python DMP libraries. 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/dgerod/more-dmps?style=social)](https://github.com/dgerod/more-dmps/stargazers/)
+
+[mathiasesn/obstacle_avoidance_with_dmps](https://github.com/mathiasesn/obstacle_avoidance_with_dmps): Incorporates obstacle avoidance and link-collision avoidance.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/mathiasesn/obstacle_avoidance_with_dmps?style=social)](https://github.com/mathiasesn/obstacle_avoidance_with_dmps/stargazers/)
+
+[dkebude/DMP-gen](https://github.com/dkebude/DMP-gen): DMP generator for reinforcement learning applications.
+
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+[![GitHub stars](https://img.shields.io/github/stars/dkebude/DMP-gen?style=social)](https://github.com/dkebude/DMP-gen/stargazers/)
+
+[stulp/dmp_bbo_matlab_deprecated](https://github.com/stulp/dmp_bbo_matlab_deprecated): Black-box optimization with DMPs. 
+
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+[![GitHub stars](https://img.shields.io/github/stars/stulp/dmp_bbo_matlab_deprecated?style=social)](https://github.com/stulp/dmp_bbo_matlab_deprecated/stargazers/)
+
+[cloudy/dmp-obstacle-avoidance](https://github.com/cloudy/dmp-obstacle-avoidance):  Human obstacle avoidance demonstrated on Rethink Robotics Sawyer manipulator.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/cloudy/dmp-obstacle-avoidance?style=social)](https://github.com/cloudy/dmp-obstacle-avoidance/stargazers/)
+
+[abakisita/dmp_motion](https://github.com/abakisita/dmp_motion): Pre-cursor implementation to author's ROS package.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/abakisita/dmp_motion?style=social)](https://github.com/abakisita/dmp_motion/stargazers/)
+
+[shobhit6993/egraphs-with-dmp](https://github.com/shobhit6993/egraphs-with-dmp): DMPs are integrated into experience-graph framework to support adaptation to unseen obstacles.
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+[![GitHub stars](https://img.shields.io/github/stars/shobhit6993/egraphs-with-dmp?style=social)](https://github.com/shobhit6993/egraphs-with-dmp/stargazers/)
+
+[xukechun/DMPs-learning](https://github.com/xukechun/DMPs-learning): Visualizer for DMPs with RViz. 
+
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+[![GitHub stars](https://img.shields.io/github/stars/xukechun/DMPs-learning?style=social)](https://github.com/xukechun/DMPs-learning/stargazers/)
+
+[baxter-flowers/dmp_lib](https://github.com/baxter-flowers/dmp_lib): Wraps @studywolf implementation in ROS package.
+
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/baxter-flowers/dmp_lib?style=social)](https://github.com/baxter-flowers/dmp_lib/stargazers/)
+
+[yuehuang315/LIL-DMP](https://github.com/yuehuang315/LIL-DMP): Lifelong imitation learning with DMPs.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/yuehuang315/LIL-DMP?style=social)](https://github.com/yuehuang315/LIL-DMP/stargazers/)
+
+[gsutanto/dmp](https://github.com/gsutanto/dmp): References in three languages with hard real-time support for robot control (C++).
+
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/gsutanto/dmp?style=social)](https://github.com/gsutanto/dmp/stargazers/)
+
+[Shaluols/ur5e_dmp](https://github.com/Shaluols/ur5e_dmp): Leverages UR5e gazebo simulation to learn DMPs based on @studywolf's library.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/Shaluols/ur5e_dmp?style=social)](https://github.com/Shaluols/ur5e_dmp/stargazers/)
 
 [Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree](https://github.com/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree):  [![GitHub stars](https://img.shields.io/github/stars/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree?style=social)](https://github.com/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree/stargazers/)
 
