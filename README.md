@@ -22,14 +22,22 @@ and other methods.
 ## Dynamic Movement Primitives
 
 ### Software
-[studywolf/pydmps](https://github.com/studywolf/pydmps): Tutorial and applications of DMPs. 
+[studywolf/pydmps](https://github.com/studywolf/pydmps): Tutorial and applications with minimal library dependencies. 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 [![GitHub stars](https://img.shields.io/github/stars/studywolf/pydmps?style=social)](https://github.com/studywolf/pydmps/stargazers/)
 
-[stulp/dmpbbo](https://github.com/stulp/dmpbbo): Combines Black-box optimization (BBO) with DMPs. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/stulp/dmpbbo?style=social)](https://github.com/stulp/dmpbbo/stargazers/)
+[stulp/dmpbbo](https://github.com/stulp/dmpbbo): Combines Black-box optimization (BBO) with DMPs. 
 
-[sniekum/dmp](https://github.com/sniekum/dmp): Robot-agnostic implementation for ROS. ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub stars](https://img.shields.io/github/stars/sniekum/dmp?style=social)](https://github.com/sniekum/dmp/stargazers/) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+[![GitHub stars](https://img.shields.io/github/stars/stulp/dmpbbo?style=social)](https://github.com/stulp/dmpbbo/stargazers/)
+
+[sniekum/dmp](https://github.com/sniekum/dmp): Robot-agnostic implementation for ROS. 
+
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/sniekum/dmp?style=social)](https://github.com/sniekum/dmp/stargazers/) 
 
 [dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives): Various MP frameworks including DMPs (with spatially coupled support) and ProMPs. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub stars](https://img.shields.io/github/stars/dfki-ric/movement_primitives?style=social)](https://github.com/dfki-ric/movement_primitives/stargazers/)
 
