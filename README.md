@@ -302,7 +302,7 @@ and other methods.
 
 ### Papers
  - [Paraschos, A., Daniel, C., Peters, J. R., & Neumann, G. (2013). Probabilistic movement primitives. *Advances in neural information processing systems*, 26.](https://proceedings.neurips.cc/paper/2013/hash/e53a0a2978c28872a4505bdb51db06dc-Abstract.html)
- - [Gomez-Gonzalez, S., Neumann, G., Schölkopf, B., & Peters, J. (2020). Adaptation and robust learning of probabilistic movement primitives. *IEEE Transactions on Robotics*, 36(2), 366-379.](ttps://ieeexplore.ieee.org/abstract/document/9020014)
+ - [Gomez-Gonzalez, S., Neumann, G., Schölkopf, B., & Peters, J. (2020). Adaptation and robust learning of probabilistic movement primitives. *IEEE Transactions on Robotics*, 36(2), 366-379.](https://ieeexplore.ieee.org/abstract/document/9020014)
 
 ### Software
 [dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives): Various MP frameworks including DMPs (with spatially coupled support) and ProMPs. 
