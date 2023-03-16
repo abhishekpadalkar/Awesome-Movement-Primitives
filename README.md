@@ -1,21 +1,33 @@
+<!-- omit in toc -->
 # Awesome Movement Primitives  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Links to software implementations of movement primitive (MP) frameworks and core papers, including:
 dynamic MPs,
 probabilistic MPs,
 kernelized MPs,
-contextual neural MPs,
+conditional neural MPs,
 fourier MPs,
 and other methods.
 
+<!-- omit in toc -->
 ## Table of Contents
- - [Dynamic Movement Primitives](#dynamic-movement-primitives)
- - [Probabilistic Movement Primitives](#probabilistic-movement-primitives)
- - [Kernelized Movement Primitives](#kernelized-movement-primitives)
- - [Contextual Neural Movement Primitives](#contextual-neural-movement-primitives)
- - [Fourier Movement Primitives](#fourier-movement-primitives)
- - [Other Approaches](#other-approaches)
- - [Citing This Work](#citing-this-work)
+- [Dynamic Movement Primitives](#dynamic-movement-primitives)
+  - [Papers](#papers)
+  - [Software](#software)
+- [Probabilistic Movement Primitives](#probabilistic-movement-primitives)
+  - [Papers](#papers-1)
+  - [Software](#software-1)
+- [Kernelized Movement Primitives](#kernelized-movement-primitives)
+  - [Papers](#papers-2)
+  - [Software](#software-2)
+- [Conditional Neural Movement Primitives](#conditional-neural-movement-primitives)
+  - [Papers](#papers-3)
+  - [Software](#software-3)
+- [Fourier Movement Primitives](#fourier-movement-primitives)
+  - [Papers](#papers-4)
+  - [Software](#software-4)
+- [Other Approaches](#other-approaches)
+- [Citing This Work](#citing-this-work)
 
 
 ## Dynamic Movement Primitives
