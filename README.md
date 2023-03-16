@@ -39,9 +39,10 @@ and other methods.
 
 ### Software
 [studywolf/pydmps](https://github.com/studywolf/pydmps): DMP tutorial and applications with minimal library dependencies. 
-
+<p float="left">
 <img src="./ico/python.png" height="20" /> 
 <a href="https://github.com/stulp/dmpbbo/stargazers/"><img src="https://img.shields.io/github/stars/studywolf/pydmps?style=social" height="20" /></a> 
+</p>
 
 [stulp/dmpbbo](https://github.com/stulp/dmpbbo): Combines Black-box optimization (BBO) with DMPs. 
 
