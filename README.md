@@ -33,11 +33,18 @@ and other methods.
 ## Dynamic Movement Primitives
 
 ### Papers
- - [Schaal, S. (2006). Dynamic movement primitives-a framework for motor control in humans and humanoid robotics. *Adaptive motion of animals and machines*, 261-280.](https://link.springer.com/chapter/10.1007/4-431-31381-8_23)
+ - [Schaal, S. (2003). Dynamic movement primitives-a framework for motor control in humans and humanoid robotics. *Adaptive motion of animals and machines*, 261-280.](https://link.springer.com/chapter/10.1007/4-431-31381-8_23)
  - [Ijspeert, A. J., Nakanishi, J., Hoffmann, H., Pastor, P., & Schaal, S. (2013). Dynamical movement primitives: learning attractor models for motor behaviors. *Neural computation*, 25(2), 328-373.](https://direct.mit.edu/neco/article-abstract/25/2/328/7850/Dynamical-Movement-Primitives-Learning-Attractor)
  - [Saveriano, M., Abu-Dakka, F. J., Kramberger, A., & Peternel, L. (2021). Dynamic movement primitives in robotics: A tutorial survey. *arXiv preprint arXiv:2102.03861.*](https://arxiv.org/abs/2102.03861)
 
 ### Software
+
+[clmc/DMP](https://web.archive.org/web/20100226024004/http://www-clmc.usc.edu/Resources/Software): Archive link to orignal implementation by Schaal et al. Also includes links to implmementation of locally weighted regression.
+
+<p float="left">
+<img src="./ico/matlab.png" height="20" /> 
+</p>
+
 [studywolf/pydmps](https://github.com/studywolf/pydmps): DMP tutorial and applications with minimal library dependencies. 
 
 <p float="left">
