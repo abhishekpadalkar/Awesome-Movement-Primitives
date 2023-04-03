@@ -39,7 +39,7 @@ and other methods.
 
 ### Software
 
-[clmc/DMP](https://web.archive.org/web/20100226024004/http://www-clmc.usc.edu/Resources/Software): Archive link to orignal implementation by Schaal et al. Also includes links to implmementation of locally weighted regression.
+[clmc/DMP](https://web.archive.org/web/20100226024004/http://www-clmc.usc.edu/Resources/Software): Archive link to orignal implementation by Schaal et al. Includes links to software for locally weighted regression.
 
 <p float="left">
 <img src="./ico/matlab.png" height="20" /> 
