@@ -538,7 +538,14 @@ and other methods.
 <a href="https://github.com/ir-lab/intprim/stargazers/"><img src="https://img.shields.io/github/stars/ir-lab/intprim?style=social" height="20" /></a> 
 </p>
 
+[idiap/pbdlib](https://www.idiap.ch/software/pbdlib/): Collection of source code for robot programming by demonstration.
 
+<p float="left">
+<img src="./ico/python.png" height="20" /> 
+<img src="./ico/matlab.png" height="20" /> 
+<img src="./ico/cpp.png" height="20" /> 
+
+</p>
 
 ## Citing This Work
 
