@@ -67,15 +67,6 @@ applications with minimal library dependencies.
 <a href="https://github.com/stulp/dmpbbo/stargazers/"><img src="https://img.shields.io/github/stars/stulp/dmpbbo?style=social" height="20" /></a> 
 </p>
 
-[sniekum/dmp](https://github.com/sniekum/dmp): Robot-agnostic implementation for
-ROS. 
-
-<p float="left">
-<img src="./ico/ros.png" height="20" /> 
-<img src="./ico/cpp.png" height="20" /> 
-<a href="https://github.com/sniekum/dmp/stargazers/"><img src="https://img.shields.io/github/stars/sniekum/dmp?style=social" height="20" /></a> 
-</p>
-
 [dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives):
 Various MP frameworks including DMPs (with spatially coupled support) and
 ProMPs. 
@@ -91,6 +82,15 @@ simulated UR5 robot in CoppeliaSim (V-REP).
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
 <a href="https://github.com/chauby/PyDMPs_Chauby/stargazers/"><img src="https://img.shields.io/github/stars/chauby/PyDMPs_Chauby?style=social" height="20" /></a> 
+</p>
+
+[sniekum/dmp](https://github.com/sniekum/dmp): Robot-agnostic implementation for
+ROS. 
+
+<p float="left">
+<img src="./ico/ros.png" height="20" /> 
+<img src="./ico/cpp.png" height="20" /> 
+<a href="https://github.com/sniekum/dmp/stargazers/"><img src="https://img.shields.io/github/stars/sniekum/dmp?style=social" height="20" /></a> 
 </p>
 
 [AlexanderFabisch/PyDMP](https://github.com/AlexanderFabisch/PyDMP):
@@ -471,6 +471,20 @@ with resnet network architecture to learn DMPs for planar tasks.
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
 <a href="https://github.com/Slifer64/resnet_dmp/stargazers/"><img src="https://img.shields.io/github/stars/Slifer64/resnet_dmp?style=social" height="20" /></a> 
+</p>
+
+[kit/DynamicMovementPrimitive](https://git.h2t.iar.kit.edu/sw/movement-primitives/dynamic-movement-primitive): 
+KIT-developed DMP library with different types of DMPs and function approximators.
+
+<p float="left">
+<img src="./ico/cpp.png" height="20" /> 
+</p>
+
+[kit/MovementPrimitiveLibrary](https://git.h2t.iar.kit.edu/sw/movement-primitives/movement-primitive-library): 
+KIT-developed kit/DynamicMovementPrimitive wrapper combined with Via-Point Movement Primitives implementation.
+
+<p float="left">
+<img src="./ico/cpp.png" height="20" /> 
 </p>
 
 
