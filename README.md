@@ -372,14 +372,6 @@ Preditive human-robot handovers using DMPs on the Baxter robot.
 <a href="https://github.com/herambnemlekar/dmp-handovers/stargazers/"><img src="https://img.shields.io/github/stars/herambnemlekar/dmp-handovers?style=social" height="20" /></a> 
 </p>
 
-[AlpX/DMP-LWR](https://github.com/AlpX/DMP-LWR): Reference implementation in
-matlab using locally weighted regression. 
-
-<p float="left">
-<img src="./ico/matlab.png" height="20" /> 
-<a href="https://github.com/AlpX/DMP-LWR/stargazers/"><img src="https://img.shields.io/github/stars/AlpX/DMP-LWR?style=social" height="20" /></a> 
-</p>
-
 [kostasVlachos/dmp_control](https://github.com/kostasVlachos/dmp_control): DMP
 control for Kuka robot.
 
@@ -395,6 +387,14 @@ Algorithms from university course implemented in numpy.
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
 <a href="https://github.com/alaradirik/robot-learning/stargazers/"><img src="https://img.shields.io/github/stars/alaradirik/robot-learning?style=social" height="20" /></a> 
+</p>
+
+[giobraglia/Dynamic-Motion-Primitives](https://github.com/giobraglia/Dynamic-Motion-Primitives):
+Cartesian trajectory-based implementation of discrete DMPs. Optimizsed for parallel computing toolbox.
+
+<p float="left">
+<img src="./ico/matlab.png" height="20" /> 
+<a href="https://github.com/giobraglia/Dynamic-Motion-Primitives/stargazers/"><img src="https://img.shields.io/github/stars/giobraglia/Dynamic-Motion-Primitives?style=social" height="20" /></a> 
 </p>
 
 [zhouyou-kit/dmp_exercise](https://github.com/zhouyou-kit/dmp_exercise):
@@ -543,6 +543,21 @@ with closed-form trajectory controller.
 <a href="https://github.com/sebasutp/promp-cpp/stargazers/"><img src="https://img.shields.io/github/stars/sebasutp/promp-cpp?style=social" height="20" /></a> 
 </p>
 
+[imanlab/deep_movement_primitives](https://github.com/imanlab/deep_movement_primitives): ProMP-based Deep MPs for breast cancer examination robot.
+
+<p float="left">
+<img src="./ico/python.png" height="20" /> 
+<a href="https://github.com/imanlab/deep_movement_primitives/stargazers/"><img src="https://img.shields.io/github/stars/imanlab/deep_movement_primitives?style=social" height="20" /></a> 
+</p>
+
+[thejose5/movement-primitives](https://github.com/thejose5/movement-primitives): LfD implementations including ProMPs with ROS support.
+
+<p float="left">
+<img src="./ico/python.png" height="20" /> 
+<img src="./ico/ros.png" height="20" /> 
+<a href="https://github.com/thejose5/movement-primitives/stargazers/"><img src="https://img.shields.io/github/stars/thejose5/movement-primitives?style=social" height="20" /></a> 
+</p>
+
 [herambnemlekar/probabilistic-movement-primitives](https://github.com/herambnemlekar/probabilistic-movement-primitives):
 Experimental implementation for training ProMPs with the Baxter robot. 
 
@@ -573,7 +588,14 @@ Demonstrates various functionalities of KMPs.
 <a href="https://github.com/yanlongtu/robInfLib-matlab/stargazers/"><img src="https://img.shields.io/github/stars/yanlongtu/robInfLib-matlab?style=social" height="20" /></a> 
 </p>
 
+[lbusellato/KMP_demos](https://github.com/lbusellato/KMP_demos): Implements three demos showcasing individual KMP capabilities.
+<p float="left">
+<img src="./ico/python.png" height="20" /> 
+<a href="https://github.com/lbusellato/KMP_demos/stargazers/"><img src="https://img.shields.io/github/stars/lbusellato/KMP_demos?style=social" height="20" /></a> 
+</p>
 
+
+mg
 ## Conditional Neural Movement Primitives
 
 ### Papers
