@@ -1,10 +1,10 @@
 <!-- omit in toc -->
 # Awesome Movement Primitives  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Links to software implementations of movement primitive (MP) frameworks and core
-papers, including: dynamic MPs, probabilistic MPs, kernelized MPs, conditional
-neural MPs, fourier MPs, and other methods. All links are in chronological
-order.
+Links to software implementations of movement primitive (MP) frameworks and
+core papers, including: dynamic MPs, probabilistic MPs, kernelized MPs,
+conditional neural MPs, Fourier MPs, and other methods. All links are in
+chronological order.
 
 <!-- omit in toc -->
 ## Table of Contents
@@ -650,9 +650,8 @@ ProMPs.
    833-852.](https://journals.sagepub.com/doi/pdf/10.1177/0278364919846363)
  - [Silvério, J., Huang, Y., Abu-Dakka, F. J., Rozo, L., & Caldwell, D. G.
    (2019). Uncertainty-aware imitation learning using kernelized movement
-   primitives. *In 2019 IEEE/RSJ International Conference on Intelligent Robots
-   and Systems (IROS)* (pp. 90-97).
-   IEEE.](https://ieeexplore.ieee.org/abstract/document/8967996)
+   primitives. *In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots
+   and Systems (IROS)* (pp. 90-97).](https://ieeexplore.ieee.org/abstract/document/8967996)
 
 ### Software
 <!-- Created: 2019-07-10 -->
@@ -676,12 +675,12 @@ Demonstrates various functionalities of KMPs.
 
 ### Papers
  - [Seker, M. Y., Imre, M., Piater, J. H., & Ugur, E. (2019). Conditional Neural
-   Movement Primitives. *In Robotics: Science and Systems* (Vol.
+   Movement Primitives. *In Proceedings of Robotics: Science and Systems* (Vol.
    10).](https://roboticsproceedings.org/rss15/p71.pdf)
- - [Akbulut, M., Oztop, E., Seker, M. Y., Hh, X., Tekden, A., & Ugur, E. (2021).
-   ACMP: Skill transfer and task extrapolation through learning from
+ - [Akbulut, M., Oztop, E., Seker, M. Y., Hh, X., Tekden, A., & Ugur, E.
+   (2021).  ACMP: Skill transfer and task extrapolation through learning from
    demonstration and reinforcement learning via representation sharing. *In
-   Conference on Robot Learning* (pp. 1896-1907).
+   Proceedings of the Conference on Robot Learning* (pp. 1896-1907).
    PMLR.](https://proceedings.mlr.press/v155/akbulut21a.html)
 
 ### Software
@@ -723,7 +722,7 @@ for population-based variational policy optimization.
 ### Papers
  - [Kulak, T., Silvério, J., & Calinon, S. (2020). Fourier movement primitives:
    an approach for learning rhythmic robot skills from demonstrations. *In
-   Robotics: Science and Systems*. (Vol.
+   Proceedings of Robotics: Science and Systems*. (Vol.
    11).](https://roboticsconference.org/2020/program/papers/56.html)
 
 ### Software
@@ -763,7 +762,7 @@ for robot programming by demonstration.
 This repository was made in support of the following survey paper:
 
 ```
-@article{cloud2023movement,
+@article{cloud2024movement,
   title={Movement Primitives in Robotics: A Survey},
   author={Cloud, Joseph M and Beksi, William J},
   journal={arXiv preprint arXiv:TBD.TBD},
