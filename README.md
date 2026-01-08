@@ -343,7 +343,7 @@ secondary forcing term for obstacle avoidance.
 
 <!-- Created: 2019-03-26 -->
 [cloudy/dmp-obstacle-avoidance](https://github.com/cloudy/dmp-obstacle-avoidance):
-Human obstacle avoidance demonstrated on Sawyer robot.
+Human obstacle avoidance demonstrated on the Sawyer robot.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -351,8 +351,8 @@ Human obstacle avoidance demonstrated on Sawyer robot.
 </p>
 
 <!-- Created: 2019-03-29 -->
-[mginesi/dmp_pp](https://github.com/mginesi/dmp_pp): Library based on "DMP++:
-Overcoming some drawbacks of dynamic movement primitives" paper.
+[mginesi/dmp_pp](https://github.com/mginesi/dmp_pp): Library based on the
+"DMP++: Overcoming some drawbacks of dynamic movement primitives" paper.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -400,7 +400,7 @@ Incorporates obstacle avoidance and link-collision avoidance.
 
 <!-- Created: 2020-03-09 -->
 [alaradirik/robot-learning](https://github.com/alaradirik/robot-learning):
-Algorithms from university course implemented in NumPy.
+Algorithms from a university course implemented in NumPy.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -408,8 +408,8 @@ Algorithms from university course implemented in NumPy.
 </p>
 
 <!-- Created: 2020-06-17 -->
-[Shaluols/ur5e_dmp](https://github.com/Shaluols/ur5e_dmp): Leverages UR5e robot
-Gazebo simulation to learn DMPs based on @studywolf's library.
+[Shaluols/ur5e_dmp](https://github.com/Shaluols/ur5e_dmp): Leverages the UR5e
+robot Gazebo simulation to learn DMPs based on @studywolf's library.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -699,7 +699,7 @@ variety of programming by demonstration frameworks including FMPs.
 <!-- Created: 2014-07-08 -->
 [ir-lab/intprim](https://github.com/ir-lab/intprim): Complete framework for
 learning controllers for human-robot interaction applications using Bayesian
-Interaction Primitives
+interaction primitives.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -707,7 +707,7 @@ Interaction Primitives
 </p>
 
 <!-- Created: 2017-11-13 -->
-[idiap/pbdlib](https://www.idiap.ch/software/pbdlib/): Collection of source code
+[idiap/pbdlib](https://www.idiap.ch/software/pbdlib/): Source code collection
 for robot programming by demonstration.
 
 <p float="left">
