@@ -29,16 +29,9 @@ chronological order.
 ### Dynamic Movement Primitives
 
 #### Papers
- - [Schaal, S. (2003). Dynamic movement primitives - a framework for motor control
-   in humans and humanoid robotics. *Adaptive motion of animals and machines*,
-   261-280.](https://link.springer.com/chapter/10.1007/4-431-31381-8_23)
- - [Ijspeert, A. J., Nakanishi, J., Hoffmann, H., Pastor, P., & Schaal, S.
-   (2013). Dynamical movement primitives: learning attractor models for motor
-   behaviors. *Neural computation*, 25(2),
-   328-373.](https://direct.mit.edu/neco/article-abstract/25/2/328/7850/Dynamical-Movement-Primitives-Learning-Attractor)
- - [Saveriano, M., Abu-Dakka, F. J., Kramberger, A., & Peternel, L. (2021).
-   Dynamic movement primitives in robotics: A tutorial survey. *arXiv preprint
-   arXiv:2102.03861.*](https://arxiv.org/abs/2102.03861)
+ - [Schaal, S. (2003). Dynamic movement primitives - A framework for motor control in humans and humanoid robotics. *Adaptive Motion of Animals and Machines*, 261-280.](https://link.springer.com/chapter/10.1007/4-431-31381-8_23)
+ - [Ijspeert, A. J., Nakanishi, J., Hoffmann, H., Pastor, P., & Schaal, S. (2013). Dynamical movement primitives: learning attractor models for motor behaviors. *Neural Computation*, 25(2), 328-373.](https://direct.mit.edu/neco/article-abstract/25/2/328/7850/Dynamical-Movement-Primitives-Learning-Attractor)
+ - [Saveriano, M., Abu-Dakka, F. J., Kramberger, A., & Peternel, L. (2021). Dynamic movement primitives in robotics: A tutorial survey. *The International Journal of Robotics Research*](https://journals.sagepub.com/doi/pdf/10.1177/02783649231201196)
 
 #### Software
 <!-- Created: 2007-03-26 -->
@@ -559,14 +552,8 @@ KIT-developed kit/DynamicMovementPrimitive wrapper combined with via point MP im
 ### Probabilistic Movement Primitives
 
 #### Papers
- - [Paraschos, A., Daniel, C., Peters, J. R., & Neumann, G. (2013).
-   Probabilistic movement primitives. *Advances in neural information processing
-   systems*,
-   26.](https://proceedings.neurips.cc/paper/2013/hash/e53a0a2978c28872a4505bdb51db06dc-Abstract.html)
- - [Gomez-Gonzalez, S., Neumann, G., Schölkopf, B., & Peters, J. (2020).
-   Adaptation and robust learning of probabilistic movement primitives. *IEEE
-   Transactions on Robotics*, 36(2),
-   366-379.](https://ieeexplore.ieee.org/abstract/document/9020014)
+ - [Paraschos, A., Daniel, C., Peters, J. R., & Neumann, G. (2013). Probabilistic movement primitives. *Advances in Neural Information Processing systems*, 26.](https://proceedings.neurips.cc/paper/2013/hash/e53a0a2978c28872a4505bdb51db06dc-Abstract.html)
+ - [Gomez-Gonzalez, S., Neumann, G., Schölkopf, B., & Peters, J. (2020). Adaptation and robust learning of probabilistic movement primitives. *IEEE Transactions on Robotics*, 36(2), 366-379.](https://ieeexplore.ieee.org/abstract/document/9020014)
 
 #### Software
 <!-- Created: 2016-04-14 -->
@@ -645,13 +632,8 @@ ProMPs.
 ### Kernelized Movement Primitives
 
 #### Papers
- - [Huang, Y., Rozo, L., Silvério, J., & Caldwell, D. G. (2019). Kernelized
-   movement primitives. *The International Journal of Robotics Research*, 38(7),
-   833-852.](https://journals.sagepub.com/doi/pdf/10.1177/0278364919846363)
- - [Silvério, J., Huang, Y., Abu-Dakka, F. J., Rozo, L., & Caldwell, D. G.
-   (2019). Uncertainty-aware imitation learning using kernelized movement
-   primitives. *In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots
-   and Systems (IROS)* (pp. 90-97).](https://ieeexplore.ieee.org/abstract/document/8967996)
+ - [Huang, Y., Rozo, L., Silvério, J., & Caldwell, D. G. (2019). Kernelized movement primitives. *The International Journal of Robotics Research*, 38(7), 833-852.](https://journals.sagepub.com/doi/pdf/10.1177/0278364919846363)
+ - [Silvério, J., Huang, Y., Abu-Dakka, F. J., Rozo, L., & Caldwell, D. G. (2019). Uncertainty-aware imitation learning using kernelized movement primitives. *IEEE/RSJ International Conference on Intelligent Robots and Systems* (pp. 90-97).](https://ieeexplore.ieee.org/abstract/document/8967996)
 
 #### Software
 <!-- Created: 2019-07-10 -->
@@ -674,14 +656,8 @@ Demonstrates various functionalities of KMPs.
 ### Conditional Neural Movement Primitives
 
 #### Papers
- - [Seker, M. Y., Imre, M., Piater, J. H., & Ugur, E. (2019). Conditional Neural
-   Movement Primitives. *In Proceedings of Robotics: Science and Systems* (Vol.
-   10).](https://roboticsproceedings.org/rss15/p71.pdf)
- - [Akbulut, M., Oztop, E., Seker, M. Y., Hh, X., Tekden, A., & Ugur, E.
-   (2021).  ACMP: Skill transfer and task extrapolation through learning from
-   demonstration and reinforcement learning via representation sharing. *In
-   Proceedings of the Conference on Robot Learning* (pp. 1896-1907).
-   PMLR.](https://proceedings.mlr.press/v155/akbulut21a.html)
+ - [Seker, M. Y., Imre, M., Piater, J. H., & Ugur, E. (2019). Conditional neural movement primitives. *Robotics: Science and Systems* (Vol. 10).](https://roboticsproceedings.org/rss15/p71.pdf)
+ - [Akbulut, M., Oztop, E., Seker, M. Y., Hh, X., Tekden, A., & Ugur, E. (2021).  ACMP: Skill transfer and task extrapolation through learning from demonstration and reinforcement learning via representation sharing. *Conference on Robot Learning* (pp. 1896-1907). PMLR.](https://proceedings.mlr.press/v155/akbulut21a.html)
 
 #### Software
 <!-- Created: 2019-02-01 -->
@@ -720,10 +696,7 @@ for population-based variational policy optimization.
 ### Fourier Movement Primitives
 
 #### Papers
- - [Kulak, T., Silvério, J., & Calinon, S. (2020). Fourier movement primitives:
-   an approach for learning rhythmic robot skills from demonstrations. *In
-   Proceedings of Robotics: Science and Systems*. (Vol.
-   11).](https://roboticsconference.org/2020/program/papers/56.html)
+ - [Kulak, T., Silvério, J., & Calinon, S. (2020). Fourier movement primitives: An approach for learning rhythmic robot skills from demonstrations. *Robotics: Science and Systems*. (Vol. 11).](https://roboticsconference.org/2020/program/papers/56.html)
 
 #### Software
 <!-- Created: 2020-01-12 -->
