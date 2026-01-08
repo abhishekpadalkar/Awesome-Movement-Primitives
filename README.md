@@ -30,7 +30,7 @@ chronological order.
 
 #### Papers
  - [Schaal, S. (2003). Dynamic movement primitives - A framework for motor control in humans and humanoid robotics. *Adaptive Motion of Animals and Machines*, 261-280.](https://link.springer.com/chapter/10.1007/4-431-31381-8_23)
- - [Ijspeert, A. J., Nakanishi, J., Hoffmann, H., Pastor, P., & Schaal, S. (2013). Dynamical movement primitives: learning attractor models for motor behaviors. *Neural Computation*, 25(2), 328-373.](https://direct.mit.edu/neco/article-abstract/25/2/328/7850/Dynamical-Movement-Primitives-Learning-Attractor)
+ - [Ijspeert, A. J., Nakanishi, J., Hoffmann, H., Pastor, P., & Schaal, S. (2013). Dynamical movement primitives: Learning attractor models for motor behaviors. *Neural Computation*, 25(2), 328-373.](https://direct.mit.edu/neco/article-abstract/25/2/328/7850/Dynamical-Movement-Primitives-Learning-Attractor)
  - [Saveriano, M., Abu-Dakka, F. J., Kramberger, A., & Peternel, L. (2021). Dynamic movement primitives in robotics: A tutorial survey. *The International Journal of Robotics Research*](https://journals.sagepub.com/doi/pdf/10.1177/02783649231201196)
 
 #### Software
@@ -150,7 +150,7 @@ tracking and perturbation recovery.
 </p>
 
 <!-- Created: 2016-08-20 -->
-[dgerod/more-dmps](https://github.com/dgerod/more-dmps): Implementation on three
+[dgerod/more-dmps](https://github.com/dgerod/more-dmps): Implementation of three
 other Python DMP libraries. 
 
 <p float="left">
@@ -179,7 +179,7 @@ implementation that supports goal location updates.
 
 <!-- Created: 2017-07-05 -->
 [Dennis-BIRL-GDUT/baxter_dmp_rl](https://github.com/Dennis-BIRL-GDUT/baxter_dmp_rl):
-Workspace for ROS implementation of Baxter robot pick-and-place.
+Workspace for ROS implementation of Baxter robot for pick-and-place tasks.
 
 <p float="left">
 <img src="./ico/ros.png" height="20" /> 
@@ -343,7 +343,7 @@ secondary forcing term for obstacle avoidance.
 
 <!-- Created: 2019-03-26 -->
 [cloudy/dmp-obstacle-avoidance](https://github.com/cloudy/dmp-obstacle-avoidance):
-Human obstacle avoidance demonstrated on Sawyer manipulator.
+Human obstacle avoidance demonstrated on Sawyer robot.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -351,8 +351,8 @@ Human obstacle avoidance demonstrated on Sawyer manipulator.
 </p>
 
 <!-- Created: 2019-03-29 -->
-[mginesi/dmp_pp](https://github.com/mginesi/dmp_pp): Library based on
-"Overcoming Some Drawbacks of DMPs" paper.
+[mginesi/dmp_pp](https://github.com/mginesi/dmp_pp): Library based on "DMP++:
+Overcoming some drawbacks of dynamic movement primitives" paper.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -361,7 +361,7 @@ Human obstacle avoidance demonstrated on Sawyer manipulator.
 
 <!-- Created: 2019-05-13 -->
 [liangyuwei/dual_ur5_arm](https://github.com/liangyuwei/dual_ur5_arm): Dual-arm
-peg-in-hole task with UR5 robots. 
+peg-in-hole task via a UR5 robot. 
 
 <p float="left">
 <img src="./ico/ros.png" height="20" /> 
@@ -439,7 +439,7 @@ three languages with hard real-time support for robot control (C++).
 
 <!-- Created: 2021-04-28 -->
 [Slifer64/GMP](https://github.com/Slifer64/GMP): Generalized MPs based on DMPs.
-Supports online adaptation to via points and off-line/on-line optimization under
+Supports online adaptation to via points and offline/online optimization under
 kinematic constraints.
 
 <p float="left">
@@ -469,7 +469,7 @@ for single and multi-point obstacle avoidance.
 
 <!-- Created: 2021-09-07 -->
 [Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree](https://github.com/Lygggggg/Upper-level-task-planning-of-Jaco-based-on-behavior-tree):
-Use behavior trees and DMPs for upper-level task planning.
+Uses behavior trees and DMPs for upper-level task planning.
 
 <p float="left">
 <img src="./ico/ros.png" height="20" /> 
@@ -489,7 +489,7 @@ ProMPs.
 
 <!-- Created: 2022-01-14 -->
 [CarlDegio/PI2-DMPs](https://github.com/CarlDegio/PI2-DMPs): Reinforcement
-learning via policy Improvement with path integrals (PI2) 
+learning via policy improvement with path integrals (PI2) 
 
 <p float="left">
 <img src="./ico/matlab.png" height="20" /> 
@@ -499,7 +499,7 @@ learning via policy Improvement with path integrals (PI2)
 
 <!-- Created: 2022-07-15 -->
 [giobraglia/Dynamic-Motion-Primitives](https://github.com/giobraglia/Dynamic-Motion-Primitives):
-Cartesian trajectory-based implementation of discrete DMPs. Optimizsed for parallel computing toolbox.
+Cartesian trajectory-based implementation of discrete DMPs. Optimized for parallel computing toolbox.
 
 <p float="left">
 <img src="./ico/matlab.png" height="20" /> 
@@ -524,8 +524,8 @@ KIT-developed DMP library with different types of DMPs and function approximator
 </p>
 
 <!-- Created: 2022-10-14 -->
-[kit/MovementPrimitiveLibrary](https://git.h2t.iar.kit.edu/sw/movement-primitives/movement-primitive-library): 
-KIT-developed kit/DynamicMovementPrimitive wrapper combined with via point MP implementation.
+[kit/MovementPrimitiveLibrary](https://git.h2t.iar.kit.edu/sw/movement-primitives/movement-primitive-library):
+KIT-developed DMP wrapper combined with via point MP implementation.
 
 <p float="left">
 <img src="./ico/cpp.png" height="20" /> 
@@ -586,7 +586,7 @@ with closed-form trajectory controller.
 
 <!-- Created: 2018-09-14 -->
 [sebasutp/promp](https://github.com/sebasutp/promp):  Library that computes
-trajectory likelihood of ProMP, trajectory sampling, and save/load.
+trajectory likelihood of a ProMP, trajectory sampling, and save/load.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -595,7 +595,7 @@ trajectory likelihood of ProMP, trajectory sampling, and save/load.
 
 <!-- Created: 2019-03-19 -->
 [sebasutp/promp-cpp](https://github.com/sebasutp/promp-cpp): C++ version of
-@sebasutp python library.
+@sebasutp Python library.
 
 <p float="left">
 <img src="./ico/cpp.png" height="20" /> 
@@ -669,9 +669,7 @@ CNMPs with experiments from the original publication.
 <img src="./ico/python.png" height="20" /> 
 <img src="./ico/pytorch.png" height="20" /> 
 <a href="https://github.com/myunusseker/CNMP/stargazers/"><img src="https://img.shields.io/github/stars/myunusseker/CNMP?style=social" height="20" /></a> 
-</p>
-
-<!-- Created: 2020-10-20 -->
+</p> <!-- Created: 2020-10-20 -->
 [mtuluhanakbulut/ACNMP](https://github.com/mtuluhanakbulut/ACNMP): Experimental
 implementation and simulation for adaptive CNMP.
 
