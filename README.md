@@ -669,7 +669,9 @@ CNMPs with experiments from the original publication.
 <img src="./ico/python.png" height="20" /> 
 <img src="./ico/pytorch.png" height="20" /> 
 <a href="https://github.com/myunusseker/CNMP/stargazers/"><img src="https://img.shields.io/github/stars/myunusseker/CNMP?style=social" height="20" /></a> 
-</p> <!-- Created: 2020-10-20 -->
+</p> 
+
+<!-- Created: 2020-10-20 -->
 [mtuluhanakbulut/ACNMP](https://github.com/mtuluhanakbulut/ACNMP): Experimental
 implementation and simulation for adaptive CNMP.
 
@@ -714,7 +716,6 @@ for robot programming by demonstration.
 <img src="./ico/python.png" height="20" /> 
 <img src="./ico/matlab.png" height="20" /> 
 <img src="./ico/cpp.png" height="20" /> 
-
 </p>
 
 ### Citing This Work
