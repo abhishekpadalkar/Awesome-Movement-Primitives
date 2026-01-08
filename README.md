@@ -680,17 +680,6 @@ implementation and simulation for adaptive CNMP.
 <a href="https://github.com/mtuluhanakbulut/ACNMP/stargazers/"><img src="https://img.shields.io/github/stars/mtuluhanakbulut/ACNMP?style=social" height="20" /></a> 
 </p>
 
-<!-- Created: 2020-10-31 -->
-[mtuluhanakbulut/RC-NMP](https://github.com/mtuluhanakbulut/RC-NMP): Reward CNMP
-for population-based variational policy optimization. 
-
-<p float="left">
-<img src="./ico/jupyter.png" height="20" /> 
-<img src="./ico/python.png" height="20" /> 
-<img src="./ico/keras.png" height="20" /> 
-<a href="https://github.com/mtuluhanakbulut/RC-NMP/stargazers/"><img src="https://img.shields.io/github/stars/mtuluhanakbulut/RC-NMP?style=social" height="20" /></a> 
-</p>
-
 ### Fourier Movement Primitives
 
 #### Papers
