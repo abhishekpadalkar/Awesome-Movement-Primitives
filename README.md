@@ -218,7 +218,7 @@ implementation in two languages.
 
 <!-- Created: 2018-01-11 -->
 [herambnemlekar/dmp-handovers](https://github.com/herambnemlekar/dmp-handovers):
-Preditive human-robot handovers using DMPs on the Baxter robot.
+Predictive human-robot handovers using DMPs on the Baxter robot.
 
 <p float="left">
 <img src="./ico/ros.png" height="20" /> 
